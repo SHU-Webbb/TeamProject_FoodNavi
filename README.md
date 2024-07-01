@@ -24,3 +24,6 @@ MBC 아카데미 빅데이터 활용 실무 프로젝트 기반 JAVA 풀스택 �
     <li>데이터 베이스 : Oracle(18.0.0)</li>
     <li>형상 관리 : GitHub</li>
 </ul>
+
+### PPT 살펴보기
+[FoodNavi PPT 문서](Document/LeeSiWoo-FoodNavi.pdf)
