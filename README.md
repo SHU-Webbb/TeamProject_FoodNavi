@@ -26,4 +26,4 @@ MBC 아카데미 빅데이터 활용 실무 프로젝트 기반 JAVA 풀스택 �
 </ul>
 
 ### PPT 살펴보기
-[FoodNavi PPT 문서](Document/LeeSiWoo-FoodNavi.pdf)
+[FoodNavi PPT 문서](/Document/LeeSiWoo-FoodNavi.pdf)
